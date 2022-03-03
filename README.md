@@ -1,37 +1,32 @@
 
 # Hi There 👋
 
-A brief description of what this project does and who it's for
+My Name is Folarin Lawal.
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer with experience working with Flutter, ReactJS, Python and Sanity CMS...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://folarinlawal.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/madflows)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/madflows_)
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, ReactJS, SanityCMS, Flutter, Java, Python, FIgma, Framer, VueJS...
 
 
-## Other Common Github Profile Sections
+## What I'm Up to.
 👩‍💻 I'm currently working on...
 
-🧠 I'm currently learning...
+🧠 I'm currently learning Mobile App Development with Flutter! 
 
-👯‍♀️ I'm looking to collaborate on...
+🤔 I'm looking for help with How to retrieve my Facebook account 😆
 
-🤔 I'm looking for help with...
+😄 Pronouns: HE!!!!!!!!
 
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
+## ⚡️ Fun fact
+👴 I love using this Emoji!
 
