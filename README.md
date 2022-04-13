@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **ReactJS, Advanced CSS and React Native**
 
-- 📫 How to reach me **lawalfolarin6@gmail.com**
+- 📫 How to reach me [Gmail](**lawalfolarin6@gmail.com**)
 
 - ⚡ Fun fact **I am #1 On CSSBattle.dev**
 
-<div align="right" float="right">
+<div align="right">
 <a href="https://app.daily.dev/Madflows"><img src="https://github.com/madflows/madflows/blob/main/devcard.svg" width="400" alt="Folarin Lawal's Dev Card"/></a>
 </div>
 
