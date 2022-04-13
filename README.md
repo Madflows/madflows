@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Folarin Lawal</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
-<h2 align="center">
-   😂 Here is a random joke that'll make you laugh!
- </h2>
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madflows&label=Profile%20views&color=0e75b6&style=flat" alt="madflows" /> </p>
 
@@ -23,7 +20,9 @@
 
 - ⚡ Fun fact **I am #1 On CSSBattle.dev**
 
-<div align="right">
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+   
 <a href="https://app.daily.dev/Madflows"><img src="https://github.com/madflows/madflows/blob/main/devcard.svg" width="400" alt="Folarin Lawal's Dev Card"/></a>
 </div>
 
