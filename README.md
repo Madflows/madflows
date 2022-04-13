@@ -19,6 +19,10 @@
 
 - ⚡ Fun fact **I am #1 On CSSBattle.dev**
 
+<div>
+<a href="https://app.daily.dev/Madflows"><img src="https://github.com/madflows/madflows/blob/master/devcard.svg" width="400" alt="Folarin Lawal's Dev Card"/></a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/madflows_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madflows_" height="30" width="40" /></a>
