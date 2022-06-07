@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Folarin Lawal</h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
+<h3 align="center">A Frontend developer from Lagos, Nigeria</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madflows&label=Profile%20views&color=0e75b6&style=flat" alt="madflows" /> </p>
@@ -19,7 +19,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madflows&theme=onedark&fire=DDDDDD)](https://git.io/streak-stats)
 
-<div align="center">
+<div>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
    
 <!-- <a href="https://app.daily.dev/Madflows"><img src="https://github.com/madflows/madflows/blob/main/devcard.svg" width="400" alt="Folarin Lawal's Dev Card"/></a> -->
