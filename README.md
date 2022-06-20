@@ -1,7 +1,9 @@
 <img src="https://img.shields.io/badge/-hacker-red" alt="hacker-badge" />
 
 <h1 align="center">Hi 👋, I'm Folarin Lawal</h1>
-<h3 align="center">A Frontend developer from Lagos, Nigeria</h3>
+<h3 align="center">A full-stack developer specializing in building (and occasionally
+          designing) exceptional digital experiences. Currently, I’m focused on
+          building responsive full-stack web applications.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madflows&label=Profile%20views&color=0e75b6&style=flat" alt="madflows" /> </p>
