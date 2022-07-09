@@ -1,5 +1,7 @@
 <img src="https://img.shields.io/badge/-hacker-red" alt="hacker-badge" />
 
+<img src="https://github.com/Madflows/madflows/blob/d94ec142570fe86579fa84213c757ae45c57e8de/MADFLOWS%20Twitter%20Header.png" alt="Profile Info" />
+
 <h1 align="center">Hi 👋, I'm Folarin Lawal</h1>
 <h3 align="center">A full-stack developer specializing in building (and occasionally
           designing) exceptional digital experiences. Currently, I’m focused on
