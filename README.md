@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/-hacker-red" alt="hacker-badge" />
 
-<img src="https://github.com/Madflows/madflows/blob/d94ec142570fe86579fa84213c757ae45c57e8de/MADFLOWS%20Twitter%20Header.png" alt="Profile Info" />
+<img src="https://github.com/Madflows/madflows/blob/3d7e6ed1b3a6aeaeb0e3ee0807356edb178ceab5/Github%20Header.png" alt="madflow's github header" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madflows&label=Profile%20views&color=0e75b6&style=flat" alt="madflows" /> </p>
