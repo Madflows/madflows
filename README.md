@@ -1,14 +1,16 @@
 
-<img src="https://img.shields.io/badge/-hacker-red" alt="hacker-badge" />
+<img src="https://img.shields.io/badge/-not_suspended-orange" alt="hacker-badge" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madflows&label=Profile%20views&color=0e75b6&style=flat" alt="madflows" /> </p>
+<p align="left"> <a href="https://twitter.com/madflows_" target="blank"><img src="https://img.shields.io/twitter/follow/madflows_?logo=twitter&style=for-the-badge" alt="madflows_" /></a> </p>
 
 <img src="https://github.com/Madflows/madflows/blob/3d7e6ed1b3a6aeaeb0e3ee0807356edb178ceab5/Github%20Header.png" alt="madflow's github header" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madflows&label=Profile%20views&color=0e75b6&style=flat" alt="madflows" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madflows" alt="madflows" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/madflows_" target="blank"><img src="https://img.shields.io/twitter/follow/madflows_?logo=twitter&style=for-the-badge" alt="madflows_" /></a> </p>
+
 
 
 
