@@ -1,3 +1,4 @@
+
 <img src="https://img.shields.io/badge/-hacker-red" alt="hacker-badge" />
 
 <img src="https://github.com/Madflows/madflows/blob/3d7e6ed1b3a6aeaeb0e3ee0807356edb178ceab5/Github%20Header.png" alt="madflow's github header" />
@@ -10,21 +11,16 @@
 <p align="left"> <a href="https://twitter.com/madflows_" target="blank"><img src="https://img.shields.io/twitter/follow/madflows_?logo=twitter&style=for-the-badge" alt="madflows_" /></a> </p>
 
 
-- 🌱 I’m currently learning **Remix and GraphCMS**
 
-- 👨‍💻 All of my projects are available at [https://madflows.dev](https://madflows.dev)
 
-- 💬 Ask me about **ReactJS, Advanced CSS and React Native**
+ 
 
-- 📫 How to reach me [Gmail](**lawalfolarin6@gmail.com**)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madflows&theme=onedark&fire=DDDDDD)](https://git.io/streak-stats)
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madflows&theme=onedark&fire=DDDDDD)](https://git.io/streak-stats) |  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> |
+|----------|:-------------:|
 
-<div>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-   
-<!-- <a href="https://app.daily.dev/Madflows"><img src="https://github.com/madflows/madflows/blob/main/devcard.svg" width="400" alt="Folarin Lawal's Dev Card"/></a> -->
-</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
