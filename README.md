@@ -1,5 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/fd1d610f-5d95-4266-9c2e-a8a14f46937a.svg)](https://wakatime.com/@fd1d610f-5d95-4266-9c2e-a8a14f46937a)
 
-<img src="https://img.shields.io/badge/-not_suspended-orange" alt="hacker-badge" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madflows&label=Profile%20views&color=0e75b6&style=flat" alt="madflows" /> </p>
 <p align="left"> <a href="https://twitter.com/madflows_" target="blank"><img src="https://img.shields.io/twitter/follow/madflows_?logo=twitter&style=for-the-badge" alt="madflows_" /></a> </p>
 
