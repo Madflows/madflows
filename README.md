@@ -49,7 +49,4 @@
 
 <table>
 
-<img
-  src="https://github.com/madflows/madflows/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+
