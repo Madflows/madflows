@@ -50,5 +50,15 @@
 <table>
 
 <!--START_SECTION:waka-->
+
+```text
+Astro        7 hrs 19 mins   ██████████▓░░░░░░░░░░░░░░   42.57 %
+JavaScript   4 hrs           █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
+TypeScript   3 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+HTML         1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+CSS          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+```
+
 <!--END_SECTION:waka-->
 
