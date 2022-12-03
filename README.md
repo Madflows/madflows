@@ -30,7 +30,7 @@
 </details>
 
 <details>
-  <summary>Connect with me:</summary>
+  <summary>Social media:</summary>
 <p align="left">
 <a href="https://twitter.com/madflows_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madflows_" height="30" width="40" /></a>
 <a href="https://fb.com/folarin lawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="folarin lawal" height="30" width="40" /></a>
