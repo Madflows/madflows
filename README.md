@@ -41,7 +41,7 @@
 </details>
 
 <details>
- <summary>Github Stats:</summary>
+ <summary aria-label="stats">Github Stats:</summary>
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madflows&show_icons=true&locale=en" alt="madflows" /></p>
 
