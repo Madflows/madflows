@@ -1,4 +1,4 @@
-<img src="https://github.com/Madflows/madflows/blob/3d7e6ed1b3a6aeaeb0e3ee0807356edb178ceab5/Github%20Header.png" alt="madflow's github header" />
+<img src="https://github.com/Madflows/madflows/blob/3d7e6ed1b3a6aeaeb0e3ee0807356edb178ceab5/Github%20Header.png" alt="madflow's github header | Folarin Lawal" />
 
 <!-- Badges -->
 <div>
