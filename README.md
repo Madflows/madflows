@@ -24,7 +24,7 @@
  [![GitHub Streak](https://streak-stats.demolab.com?user=madflows&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
 
 <details>
-  <summary>Random Dev Joke</summary>
+  <summary>Random Dev Joke:</summary>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> 
 
 </details>
