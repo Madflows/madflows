@@ -61,9 +61,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   10 hrs 39 mins  ██████████████████████░░░   87.68 %
-SCSS         1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-TSQL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   9 hrs 21 mins   ██████████████████████░░░   88.02 %
+SCSS         1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
 ```
 
 <!--END_SECTION:waka-->
