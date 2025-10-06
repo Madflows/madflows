@@ -30,17 +30,6 @@
 </details>
 
 <details>
-  <summary>Social media:</summary>
-<p gap="2" align="left">
-<a href="https://twitter.com/madflows_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madflows_" height="30" width="40" /></a>
-<a href="https://fb.com/folarin lawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="folarin lawal" height="30" width="40" /></a>
-<a href="https://instagram.com/madflows4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madflows4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/madflows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madflows" height="30" width="40" /></a>
-</p>
-
-</details>
-
-<details>
  <summary aria-label="stats">Github Stats:</summary>
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madflows&show_icons=true&locale=en" alt="madflows" /></p>
